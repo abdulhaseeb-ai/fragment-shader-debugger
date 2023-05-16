@@ -23,3 +23,11 @@ ApplyChangesToPixels()
 
 https://github.com/abdulhaseeb-ai/fragment-shader-debugger/assets/74037241/ca8ba008-a8cf-4b20-a39c-cd28c8f302f9
 
+
+on animating the uv coordinates
+
+
+
+https://github.com/abdulhaseeb-ai/fragment-shader-debugger/assets/74037241/b8711777-7d1a-438e-8c47-bbfb29a4ec99
+
+
