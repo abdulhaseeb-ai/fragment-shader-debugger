@@ -7,6 +7,8 @@ i.uv in fragment shader you can use vector2 uv.
 
 you can write your own math fucntion to perform the actions.
 
+Each grid is representing a pixel. you can increase and decrease the number of pixels, by changing the grid size.
+
 ![A!](https://github.com/abdulhaseeb-ai/fragment-shader-debugger/assets/74037241/5fb0d6c4-34d2-4b59-bd49-8caea3ebc76e)
 
 In ShaderDebbuger class you can change the grid size(how many pixels you want to add). (Use low grid size)
