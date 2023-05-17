@@ -180,4 +180,9 @@ public class ShaderDebugger : MonoBehaviour
             }
         }
     }
+    
+    public decimal Frac(decimal value) 
+    { 
+        return value - Math.Truncate(value); 
+    }
 }
