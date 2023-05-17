@@ -181,8 +181,15 @@ public class ShaderDebugger : MonoBehaviour
         }
     }
     
-    public decimal Frac(decimal value) 
+    public decimal Frac(float value) 
     { 
         return value - Math.Truncate(value); 
     }
+    
+    public decimal SmoothStep(float minimum,float maximum,float t) 
+    { 
+        return Mathf.SmoothStep(minimum, maximum, t);
+    }
+    
+    
 }
